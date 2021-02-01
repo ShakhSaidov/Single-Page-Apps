@@ -13,5 +13,5 @@ Learned:
 - Adding a login securely with tokenization (bcrypt, jsonwebtoken)  
 
 Deployed here: [Bloglist] (https://shakh-blogs.herokuapp.com/)  
-Login: Shakh01  
-Password: qwerty  
+**Login:** Shakh01  
+**Password:** qwerty  
