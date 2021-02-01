@@ -2,7 +2,9 @@
 Learned:
 - REST architecture
 - React + Node & Express + MongoDB Atlas (MERN stack)
-- Basic CSS
+- Basic CSS  
+
+Deployed here: [Phonebook] (https://shakh-phonebook.herokuapp.com/)
 
 # 2. Bloglist  
 Learned:  
